@@ -1,4 +1,5 @@
-# SoftwareDesign
+# Everything Well
+ 
 Software Engineering Group Project Spring 2022
 
 ### Contributors:
