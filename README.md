@@ -1,6 +1,6 @@
 # Everything Well - Software Engineering Group Project Spring 2022
 
- Report: https://docs.google.com/document/d/1bVrPygt3eqb2Q2VRdeNdxBm_TBNlZGVGJQ5qP7M4wQc/edit?usp=sharing
+ Report: https://docs.google.com/document/d/1bVrPygt3eqb2Q2VRdeNdxBm_TBNlZGVGJQ5qP7M4wQc/edit?usp=sharing <br />
  <img width="273" alt="Screen Shot 2023-01-31 at 5 38 27 PM" src="https://user-images.githubusercontent.com/60558403/215908449-1332c6af-1364-4c4e-9f99-b77d5c483576.png"> <br />
 <img width="562" alt="Screen Shot 2023-01-31 at 5 38 54 PM" src="https://user-images.githubusercontent.com/60558403/215908507-9492598f-feac-445b-908d-000f213c758e.png">
 <img width="558" alt="Screen Shot 2023-01-31 at 5 39 08 PM" src="https://user-images.githubusercontent.com/60558403/215908530-a13bd012-0970-4c58-8258-6fd7fbab65cb.png">
